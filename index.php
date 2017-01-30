@@ -65,8 +65,8 @@
                                 <h3>I am Ashwini Chavan</h3>
                                 <h2 class="cd-headline clip is-full-width">
                                     <span class="cd-words-wrapper">
-                                        <b class="is-visible">Professional Web Designer</b>
-                                        <b>Professional Web Developer</b>
+                                        <b class="is-visible"> Web Designer</b>
+                                        <b> Web Developer</b>
                                         <b>Photography is my passion</b>
                                     </span>
 							    </h2>
@@ -173,7 +173,7 @@
              </p>
              <p>I spend my days with my hands in many different areas of web development from back end programming to front end engineering and user experience.
              </p>                         
-                <a class="about-button" href="">hire me</a>
+                <a class="about-button" href="#">hire me</a>
                             <a class="about-button" href="">download cv</a>
                         </div>
                     </div>
@@ -199,37 +199,47 @@
                     <div class="skill-area">
                         <h2>key skills</h2>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:30%">
                                 PHP
                             </div>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
-                                LARAVEL
+                            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+                                LARAVEL BLADE TEMPLATE
                             </div>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:30%">
                                 MYSQL
                             </div>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
                                 HTML5
                             </div>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
                                 JQUERY
                             </div>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width:65%">
                                 JAVASCRIPT
                             </div>
                         </div>
                         <div class="progress">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
+                                WORDPRESS
+                            </div>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width:30%">
+                                Amazon Web Services
+                            </div>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width:55%">
                                 GIT
                             </div>
                         </div>
@@ -333,7 +343,7 @@
                                 <i class="fa fa-briefcase"></i>
                                 <h2>Front End Developer</h2>
                                 <h3 class="text-muted">2016 - 2017</h3>
-                                <p>Worked in SME Homefine Services pvt.ltd for one month as Network support engineer.</p>
+                                <p>Worked in SME Homefine Services pvt.ltd as a Front End Developer</p>
                             </div>
                         </div>
                         <!-- / END SINGLE EXPERIENCE DESIGN AREA -->
@@ -364,7 +374,7 @@
                             <div class="single-service">
                                 <i class="fa fa-camera"></i>
                                 <h2>photography</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                              <!--   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p> -->
                             </div>
                         </div>
                         <!-- / END SINGLE SERVICE DESIGN AREA -->
@@ -373,7 +383,7 @@
                             <div class="single-service">
                                 <i class="fa fa-laptop"></i>
                                 <h2>Web design</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p> -->
                             </div>
                         </div>
                         <!-- / END SINGLE SERVICE DESIGN AREA -->
@@ -382,7 +392,7 @@
                             <div class="single-service">
                                 <i class="fa fa-code"></i>
                                 <h2>web development</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                               <!--  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p> -->
                             </div>
                         </div>
                         <!-- / END SINGLE SERVICE DESIGN AREA -->
@@ -391,7 +401,7 @@
                             <div class="single-service">
                                 <i class="fa fa-wordpress"></i>
                                 <h2>wordpress</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                              <!--   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p> -->
                             </div>
                         </div>
                         <!-- / END SINGLE SERVICE DESIGN AREA -->
@@ -400,7 +410,7 @@
                             <div class="single-service">
                                 <i class="fa fa-codepen"></i>
                                 <h2>coding</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                              <!--   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p> -->
                             </div>
                         </div>
                         <!-- / END SINGLE SERVICE DESIGN AREA -->
@@ -409,7 +419,7 @@
                             <div class="single-service">
                                 <i class="fa fa-users"></i>
                                 <h2>support</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                              <!--   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p> -->
                             </div>
                         </div>
                         <!-- / END SINGLE SERVICE DESIGN AREA -->
