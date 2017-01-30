@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- SITE TITLE -->
-    <title>VHINNO &#8211; Material Design Personal vCard Resume Template</title>
+    <title>Ashwini &#8211; Material Design Personal vCard Resume Template</title>
     <!-- FAVI ICON -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/faviicon.png">
     <!-- GOOGLE FONTS CSS -->
@@ -17,6 +17,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <!-- FONT AWESOME CSS -->
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <!-- NORMALIZER CSS -->
     <link href="assets/css/normalize.css" rel="stylesheet">
     <!-- OWL CSS -->
@@ -100,7 +101,7 @@
                 <!-- LOGO DESIGN AREA -->
                 <div class="col-md-3 col-sm-2">
                     <div class="logo">
-                        <a href="">Vhinno</a>
+                        <a href="">Ashwini</a>
                     </div>
                 </div>
                 <!-- / END LOGO DESIGN AREA -->
@@ -126,12 +127,12 @@
                                     </li>
                                     <li><a class="smoth-scroll" href="#service">service</a>
                                     </li>
-                                    <li><a class="smoth-scroll" href="#work">portfolio</a>
+                                    <!-- <li><a class="smoth-scroll" href="#work">portfolio</a>
                                     </li>
                                     <li><a class="smoth-scroll" href="#testimonial">testimonial</a>
                                     </li>
                                     <li><a class="smoth-scroll" href="#blog">blog</a>
-                                    </li>
+                                    </li> -->
                                     <li><a class="smoth-scroll" href="#contact">contact</a>
                                     </li>
                                 </ul>
@@ -199,27 +200,37 @@
                         <h2>key skills</h2>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
-                                html5
+                                PHP
                             </div>
                         </div>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
-                                css3
+                                LARAVEL
                             </div>
                         </div>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:90%">
-                                Laravel
+                                MYSQL
                             </div>
                         </div>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:75%">
-                                php
+                                HTML5
                             </div>
                         </div>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%">
-                                mySql
+                                JQUERY
+                            </div>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                                JAVASCRIPT
+                            </div>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                                GIT
                             </div>
                         </div>
                     </div>
@@ -247,9 +258,9 @@
                         <div class="col-sm-6">
                             <div class="single-education">
                                 <i class="fa fa-book"></i>
-                                <h2>Bangora primary school</h2>
-                                <h3 class="text-muted">2012-2016</h3>
-                                <p>Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. </p>
+                                <h2>T.M.C school No.7</h2>
+                                <h3 class="text-muted">2009</h3>
+                                <p>I have completed SSC from this school </p>
                             </div>
                         </div>
                         <!-- / END SINGLE EDUCATION DESIGN AREA -->
@@ -257,9 +268,9 @@
                         <div class="col-sm-6">
                             <div class="single-education">
                                 <i class="fa fa-book"></i>
-                                <h2>Bangora U.l high School</h2>
-                                <h3 class="text-muted">2012-2016</h3>
-                                <p>Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. </p>
+                                <h2>Dnyansadhna college thane.</h2>
+                                <h3 class="text-muted">2009-2011</h3>
+                                <p>I have completed my HSC in this college</p>
                             </div>
                         </div>
                         <!-- / END SINGLE EDUCATION DESIGN AREA -->
@@ -267,21 +278,14 @@
                         <div class="col-sm-6">
                             <div class="single-education">
                                 <i class="fa fa-book"></i>
-                                <h2>Fusd degree College</h2>
-                                <h3 class="text-muted">2012-2016</h3>
-                                <p>Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. </p>
+                                <h2>Ses Engineering college</h2>
+                                <h3 class="text-muted">2011-2015</h3>
+                                <p>I have completed my degree in this college in streem of Computer engineering</p>
                             </div>
                         </div>
                         <!-- / END SINGLE EDUCATION DESIGN AREA -->
                         <!-- SINGLE EDUCATION DESIGN AREA -->
-                        <div class="col-sm-6">
-                            <div class="single-education">
-                                <i class="fa fa-book"></i>
-                                <h2>Stamford university bangladesh</h2>
-                                <h3 class="text-muted">2012-2016</h3>
-                                <p>Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. </p>
-                            </div>
-                        </div>
+                        
                         <!-- / END SINGLE EDUCATION DESIGN AREA -->
                     </div>
                 </div>
@@ -307,9 +311,9 @@
                         <div class="col-sm-6">
                             <div class="single-education">
                                 <i class="fa fa-briefcase"></i>
-                                <h2>Front-End Development</h2>
-                                <h3 class="text-muted">2012-2016</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</p>
+                                <h2>Trainee Software Developer</h2>
+                                <h3 class="text-muted">2014</h3>
+                                <p>Training in GeBBs healthcare solutions pvt.ltd From 17th June to 10th July 2014.As a computer engineer in software department on dotnet.</p>
                             </div>
                         </div>
                         <!-- / END SINGLE EXPERIENCE DESIGN AREA -->
@@ -317,9 +321,9 @@
                         <div class="col-sm-6">
                             <div class="single-education">
                                 <i class="fa fa-briefcase"></i>
-                                <h2>UI/UX Design</h2>
-                                <h3 class="text-muted">2012-2016</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</p>
+                                <h2>Web Developer</h2>
+                                <h3 class="text-muted">2016</h3>
+                                <p>Three month did training as a Web Developer in Digital Infotech Sols Centre LLP on live project which is www.fundtonic.com</p>
                             </div>
                         </div>
                         <!-- / END SINGLE EXPERIENCE DESIGN AREA -->
@@ -327,21 +331,13 @@
                         <div class="col-sm-6">
                             <div class="single-education">
                                 <i class="fa fa-briefcase"></i>
-                                <h2>Website production</h2>
-                                <h3 class="text-muted">2012-2016</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</p>
+                                <h2>Front End Developer</h2>
+                                <h3 class="text-muted">2016 - 2017</h3>
+                                <p>Worked in SME Homefine Services pvt.ltd for one month as Network support engineer.</p>
                             </div>
                         </div>
                         <!-- / END SINGLE EXPERIENCE DESIGN AREA -->
                         <!-- SINGLE EXPERIENCE DESIGN AREA -->
-                        <div class="col-sm-6">
-                            <div class="single-education">
-                                <i class="fa fa-briefcase"></i>
-                                <h2>Website maintain</h2>
-                                <h3 class="text-muted">2012-2016</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the</p>
-                            </div>
-                        </div>
                         <!-- / END SINGLE EXPERIENCE DESIGN AREA -->
                     </div>
                 </div>
@@ -425,7 +421,7 @@
     <!-- / END SERVICE DESIGN AREA -->
 
     <!-- WORK DESIGN AREA -->
-    <section id="work" class="work section-padding">
+ <!--    <section id="work" class="work section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2">
@@ -446,9 +442,9 @@
                 </div>
             </div>
             <div class="work-inner">
-                <div class="row work-posts grid">
+                <div class="row work-posts grid"> -->
                     <!-- START SINGLE WORK DESIGN AREA -->
-                    <div class="col-md-4 col-sm-4 web photography">
+<!--                     <div class="col-md-4 col-sm-4 web photography">
                         <div class="item">
                             <img src="assets/images/portfolio/1.jpg" alt="">
                             <a href="assets/images/portfolio/1.jpg" data-lightbox="roadtrip">
@@ -457,10 +453,10 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END SINGLE WORK DESIGN AREA -->
                     <!-- START SINGLE WORK DESIGN AREA -->
-                    <div class="col-md-4 col-sm-4 graphic photography">
+<!--                     <div class="col-md-4 col-sm-4 graphic photography">
                         <div class="item">
                             <img src="assets/images/portfolio/2.jpg" alt="">
                             <a href="assets/images/portfolio/2.jpg" data-lightbox="roadtrip">
@@ -469,10 +465,10 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END SINGLE WORK DESIGN AREA -->
                     <!-- START SINGLE WORK DESIGN AREA -->
-                    <div class="col-md-4 col-sm-4 web">
+ <!--                    <div class="col-md-4 col-sm-4 web">
                         <div class="item">
                             <img src="assets/images/portfolio/3.jpg" alt="">
                             <a href="assets/images/portfolio/3.jpg" data-lightbox="roadtrip">
@@ -481,10 +477,10 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END SINGLE WORK DESIGN AREA -->
                     <!-- START SINGLE WORK DESIGN AREA -->
-                    <div class="col-md-4 col-sm-4 typography">
+ <!--                    <div class="col-md-4 col-sm-4 typography">
                         <div class="item">
                             <img src="assets/images/portfolio/4.jpg" alt="">
                             <a href="assets/images/portfolio/4.jpg" data-lightbox="roadtrip">
@@ -493,10 +489,10 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END SINGLE WORK DESIGN AREA -->
                     <!-- START SINGLE WORK DESIGN AREA -->
-                    <div class="col-md-4 col-sm-4 typography web">
+<!--                     <div class="col-md-4 col-sm-4 typography web">
                         <div class="item">
                             <img src="assets/images/portfolio/5.jpg" alt="">
                             <a href="assets/images/portfolio/5.jpg" data-lightbox="roadtrip">
@@ -505,10 +501,10 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END SINGLE WORK DESIGN AREA -->
                     <!-- START SINGLE WORK DESIGN AREA -->
-                    <div class="col-md-4 col-sm-4 graphic photography">
+<!--                     <div class="col-md-4 col-sm-4 graphic photography">
                         <div class="item">
                             <img src="assets/images/portfolio/6.jpg" alt="">
                             <a href="assets/images/portfolio/6.jpg" data-lightbox="roadtrip">
@@ -517,10 +513,10 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END SINGLE WORK DESIGN AREA -->
                     <!-- START SINGLE WORK DESIGN AREA -->
-                    <div class="col-md-4 col-sm-4 web typography">
+<!--                     <div class="col-md-4 col-sm-4 web typography">
                         <div class="item">
                             <img src="assets/images/portfolio/1.jpg" alt="">
                             <a href="assets/images/portfolio/1.jpg" data-lightbox="roadtrip">
@@ -529,10 +525,10 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END SINGLE WORK DESIGN AREA -->
                     <!-- START SINGLE WORK DESIGN AREA -->
-                    <div class="col-md-4 col-sm-4 photography">
+ <!--                    <div class="col-md-4 col-sm-4 photography">
                         <div class="item">
                             <img src="assets/images/portfolio/2.jpg" alt="">
                             <a href="assets/images/portfolio/2.jpg" data-lightbox="roadtrip">
@@ -541,10 +537,10 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END SINGLE WORK DESIGN AREA -->
                     <!-- START SINGLE WORK DESIGN AREA -->
-                    <div class="col-md-4 col-sm-4 graphic">
+ <!--                    <div class="col-md-4 col-sm-4 graphic">
                         <div class="item">
                             <img src="assets/images/portfolio/3.jpg" alt="">
                             <a href="assets/images/portfolio/3.jpg" data-lightbox="roadtrip">
@@ -553,16 +549,16 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- END SINGLE WORK DESIGN AREA -->
-                </div>
+<!--                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- / END WORK DESIGN AREA -->
 
     <!-- TESTIMONIAL DESIGN AREA -->
-    <section id="testimonial" class="testimonial-area section-padding">
+   <!--  <section id="testimonial" class="testimonial-area section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2">
@@ -573,40 +569,40 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="testimonial-list">
+                    <div class="testimonial-list"> -->
                         <!-- SINGLE TESTIMONIAL DESIGN AREA -->
-                        <div class="single-testimonial">
+                        <!-- <div class="single-testimonial">
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                             </p>
                             <h2>Larry Page</h2>
                             <h3 class="text-muted">CEO of Google</h3>
-                        </div>
+                        </div> -->
                         <!-- / END SINGLE TESTIMONIAL DESIGN AREA -->
                         <!-- SINGLE TESTIMONIAL DESIGN AREA -->
-                        <div class="single-testimonial">
+                        <!-- <div class="single-testimonial">
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                             </p>
                             <h2>Steve Jobs</h2>
                             <h3 class="text-muted">CEO of apple</h3>
-                        </div>
+                        </div> -->
                         <!-- / END SINGLE TESTIMONIAL DESIGN AREA -->
                         <!-- SINGLE TESTIMONIAL DESIGN AREA -->
-                        <div class="single-testimonial">
+                        <!-- <div class="single-testimonial">
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                             </p>
                             <h2>Mark Zuckerberg </h2>
                             <h3 class="text-muted">CEO of facebook</h3>
-                        </div>
+                        </div> -->
                         <!-- / END SINGLE TESTIMONIAL DESIGN AREA -->
-                    </div>
+                   <!--  </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- / END TESTIMONIAL DESIGN AREA -->
 
     <!-- START BLOG DESIGN AREA -->
-    <section id="blog" class="blog-area">
+ <!--    <section id="blog" class="blog-area">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-md-offset-4 col-xs-8 col-xs-offset-2">
@@ -615,9 +611,9 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row"> -->
                 <!-- START SINGLE BLOG DESIGN AREA -->
-                <div class="col-md-4">
+<!--                 <div class="col-md-4">
                     <div class="single-blog">
                         <img src="assets/images/blog/blog1.jpg" alt="" class="img-responsive">
                         <div class="blog-content">
@@ -627,10 +623,10 @@
                             <a href="#" class="read-more">Read more</a>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- / END SINGLE BLOG DESIGN AREA -->
                 <!-- START SINGLE BLOG DESIGN AREA -->
-                <div class="col-md-4">
+<!--                 <div class="col-md-4">
                     <div class="single-blog">
                         <img src="assets/images/blog/blog2.jpg" alt="" class="img-responsive">
                         <div class="blog-content">
@@ -640,10 +636,10 @@
                             <a href="#" class="read-more">Read more</a>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- / END SINGLE BLOG DESIGN AREA -->
                 <!-- START SINGLE BLOG DESIGN AREA -->
-                <div class="col-md-4">
+<!--                 <div class="col-md-4">
                     <div class="single-blog">
                         <img src="assets/images/blog/blog3.jpg" alt="" class="img-responsive">
                         <div class="blog-content">
@@ -653,11 +649,11 @@
                             <a href="#" class="read-more">Read more</a>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- / END SINGLE BLOG DESIGN AREA -->
-            </div>
+<!--             </div>
         </div>
-    </section>
+    </section> -->
     <!-- / END BLOG DESIGN AREA -->
 
     <!-- CONTACT DESIGN AREA -->
@@ -721,7 +717,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p>&copy; Vhinno 2016 All right Reserved.</p>
+                    <p>&copy; Ashwini 2016 All right Reserved.</p>
                 </div>
             </div>
         </div>
@@ -729,7 +725,7 @@
     <!-- / END FOOTER DESIGN AREA -->
 	
 	<!-- SWITCHER DESIGN AREA -->
-    <div id="style-switcher">
+<!--     <div id="style-switcher">
         <h2>Choose Color<a href="#"><i class="fa fa-cog fa-tachometer"></i></a></h2>
         <div>
             <ul class="colors" id="color1">
@@ -760,7 +756,7 @@
 
             </ul>
         </div>
-    </div>
+    </div> -->
     <!-- / END SWITCHER DESIGN AREA -->
 
     <!-- START SCROOL UP DESIGN AREA -->
