@@ -61,7 +61,7 @@
                             <!-- HEADER TEXT DESIGN AREA -->
                             <div class="header-text text-center">
                                 <h1>Hello</h1>
-                                <h3>I am John Doe</h3>
+                                <h3>I am Ashwini Chavan</h3>
                                 <h2 class="cd-headline clip is-full-width">
                                     <span class="cd-words-wrapper">
                                         <b class="is-visible">Professional Web Designer</b>
@@ -69,11 +69,20 @@
                                         <b>Photography is my passion</b>
                                     </span>
 							    </h2>
-                                <div class="social-link">
-                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                <div class="social-link social">
+            <a target="_blank" href="https://in.linkedin.com/in/ashwini-chavan-22b34a137"><i class="fa fa-linkedin"></i></a>
+           <a target="_blank" href="https://github.com/ashwinijchavan"><i class="fa fa-github fa-3"></i></a>
+           <a target="_blank" href="https://medium.com/@ashwinijchavan"><i class="fa fa-medium fa-4"></i></a>
+          <a target="_blank" href="https://www.facebook.com/ashwini.chavan.585"><i class="fa fa-facebook"></i></a>
+           <a target="_blank" href="https://twitter.com/ashwinijchavan"><i class="fa fa-twitter"></i></a>
+          <!--  <a target="_blank" href="http://www.slideshare.net/santoshpawar43/presentations"><i class="fa fa-slideshare fa-3"></i></a> -->
+           <a target="_blank" href="https://stackoverflow.com/users/7462688/ashwini-chavan"><i class="fa fa-stack-overflow fa-3"></i></a>
+           <a target="_blank" href="https://plus.google.com/u/2/118110528344455439195"><i class="fa fa-google-plus"></i></a>
+
+                                   <!--  <a href=""><i class="fa fa-facebook"></i></a>
                                     <a href=""><i class="fa fa-twitter"></i></a>
                                     <a href=""><i class="fa fa-instagram"></i></a>
-                                    <a href=""><i class="fa fa-skype"></i></a>
+                                    <a href=""><i class="fa fa-skype"></i></a> -->
                                 </div>
                             </div>
                             <!-- / END HEADER TEXT DESIGN AREA -->
@@ -147,16 +156,23 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="me-image">
-                            <img src="assets/images/me.jpg" class="img-circle" alt="">
+                            <img src="http://www.ashwinichavanweb.com/assets/img/ashwini.PNG" class="img-circle" alt="">
                         </div>
                     </div>
-                    <div class="col-md-9">
+                    <div class="col-md-8">
                         <div class="about-me-text">
                             <h2>My Story</h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop.</p>
-                            <a class="about-button" href="">hire me</a>
+             <p>I am an enthusiastic Web Application Developer <!--and Blogger--> who always seeking an opportunity to get exposure to new Web technologies.
+               I love to work in start up environment where I can improve my entrepreneur skills. I am working as a Web App Developer from more than 1.2 years. 
+             </p>
+             <p>I am a person who is willing to learn and adapts quickly. I have a minimalistic approach to design and usability. 
+               Simplicity is beauty they say. 
+             </p>
+             <p>I spend my days with my hands in many different areas of web development from back end programming to front end engineering and user experience.
+             </p>                         
+                <a class="about-button" href="">hire me</a>
                             <a class="about-button" href="">download cv</a>
                         </div>
                     </div>
@@ -168,11 +184,11 @@
                     <div class="about-info">
                         <h2>personal information</h2>
                         <ul>
-                            <li><span>name:</span>John Doe</li>
-                            <li><span>Birthday:</span>August 14, 1992:</li>
-                            <li><span>address:</span>121 King Street, Melbourne,Australia</li>
-                            <li><span>phone:</span>+61 (0)3 9251 5036</li>
-                            <li><span>email:</span>me@webitename.com</li>
+                            <li><span>name:</span>Ashwini Chavan</li>
+                            <li><span>Birthday:</span>Octomber 18, 1993</li>
+                            <li><span>address:</span>Thane,Mumbai,India.</li>
+                            <li><span>phone:</span>+91 9594213121</li>
+                            <li><span>email:</span>ashwinijagdishchavan@gmail.com</li>
                         </ul>
                     </div>
                     <!-- / END PERSONAL INFORMATION DESIGN AREA -->
@@ -193,7 +209,7 @@
                         </div>
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:90%">
-                                wordpress
+                                Laravel
                             </div>
                         </div>
                         <div class="progress">
@@ -659,19 +675,19 @@
                 <div class="col-md-4">
                     <div class="single-contact">
                         <h2>Address:</h2>
-                        <p>121 King Street, Melbourne,Australia</p>
+                        <p>Thane, Mumbai, India</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="single-contact">
                         <h2>Phone:</h2>
-                        <p>+61 (0)3 9251 5036</p>
+                        <p>+91 9594213121</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="single-contact">
                         <h2>Email:</h2>
-                        <p>me@webitename.com</p>
+                        <p>ashwinijagdishchavan@gmail.com</p>
                     </div>
                 </div>
             </div>
